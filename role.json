@@ -1,11 +1,16 @@
 {
-  "developer"    : ["5360859655","6346849956"],
-  "eksekutif"    : [],
-  "tangan_kanan" : [],
-  "owner"        : [],
-  "moderator"    : [],
-  "partner"      : [],
-  "reseller"     : [],
-  "full_up"      : [],
-  "usage"        : {}
+  "developer": [
+    "5360859655",
+    "6346849956"
+  ],
+  "eksekutif": [],
+  "tangan_kanan": [],
+  "owner": [],
+  "moderator": [],
+  "partner": [],
+  "reseller": [],
+  "full_up": [
+    "6116361230"
+  ],
+  "usage": {}
 }
