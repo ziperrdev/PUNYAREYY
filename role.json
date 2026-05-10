@@ -6,12 +6,13 @@
   "eksekutif": [],
   "tangan_kanan": [],
   "owner": [],
-  "moderator": [],
+  "moderator": [
+    "609517172"
+  ],
   "partner": [],
   "reseller": [],
   "full_up": [
-    "6116361230",
-    "609517172"
+    "6116361230"
   ],
   "usage": {}
 }
