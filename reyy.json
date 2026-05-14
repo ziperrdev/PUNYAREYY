@@ -107,7 +107,7 @@
     }
   },
   "meta": {
-    "updatedAt": "2026-05-14T14:52:30.316Z"
+    "updatedAt": "2026-05-14T14:52:44.885Z"
   },
   "botTokens": {
     "tok_1778770264625_h5sdnx": {
@@ -132,9 +132,13 @@
       "requestedPeriod": "permanent",
       "photoFileId": "AgACAgUAAxkBAAIBBmoF4XnoEreN6PfrQXWEoN-cFNCmAAIHDmsb7u0wVFfawAUU62GgAQADAgADdwADOwQ",
       "caption": "",
-      "status": "pending",
+      "status": "approved",
       "createdAt": "2026-05-14T14:52:30.316Z",
-      "updatedAt": "2026-05-14T14:52:30.316Z"
+      "updatedAt": "2026-05-14T14:52:44.885Z",
+      "approvedBy": 6346849956,
+      "approvedByUsername": "ziperr2",
+      "finalPeriod": "permanent",
+      "expiresAt": null
     }
   }
 }
