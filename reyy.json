@@ -107,7 +107,7 @@
     }
   },
   "meta": {
-    "updatedAt": "2026-05-14T14:52:44.885Z"
+    "updatedAt": "2026-05-14T14:52:46.372Z"
   },
   "botTokens": {
     "tok_1778770264625_h5sdnx": {
@@ -134,10 +134,36 @@
       "caption": "",
       "status": "approved",
       "createdAt": "2026-05-14T14:52:30.316Z",
-      "updatedAt": "2026-05-14T14:52:44.885Z",
+      "updatedAt": "2026-05-14T14:52:46.372Z",
       "approvedBy": 6346849956,
       "approvedByUsername": "ziperr2",
       "finalPeriod": "permanent",
+      "expiresAt": null,
+      "inviteLinks": [
+        {
+          "role": "full_up",
+          "groupName": "FULLUP - Full Up otax",
+          "chatId": -1003908906743,
+          "inviteLink": "https://t.me/+ZTz-w1tVk5U1NWE1",
+          "status": "active",
+          "createdAt": "2026-05-14T14:52:45.995Z",
+          "expiresAt": null
+        }
+      ]
+    }
+  },
+  "buyerInvites": {
+    "https://t.me/+ZTz-w1tVk5U1NWE1": {
+      "requestId": "1778770349990",
+      "requesterId": 6346849956,
+      "requesterUsername": "ziperr2",
+      "buyerUsername": "ID1GW",
+      "role": "full_up",
+      "groupName": "FULLUP - Full Up otax",
+      "chatId": -1003908906743,
+      "inviteLink": "https://t.me/+ZTz-w1tVk5U1NWE1",
+      "status": "active",
+      "createdAt": "2026-05-14T14:52:45.995Z",
       "expiresAt": null
     }
   }
