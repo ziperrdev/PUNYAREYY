@@ -1,3 +1,14 @@
 {
-  "users": []
+  "users": [
+    {
+      "id": "6346849956",
+      "username": "ziperr2",
+      "first_name": "ᯓ𝘇𝗶𝗽𝗲𝗿¿𝟐",
+      "last_name": null,
+      "first_seen": "2026-05-14T01:07:21.826Z",
+      "last_active": "2026-05-14T01:07:21.826Z"
+    }
+  ],
+  "updated_by": "system",
+  "updated_at": "2026-05-14T01:07:21.826Z"
 }
