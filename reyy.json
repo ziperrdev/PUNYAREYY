@@ -101,13 +101,13 @@
       "createdAt": "2026-05-14T14:49:36.619Z",
       "role": "owner",
       "tokenQuota": 30,
-      "tokensUsed": 1,
-      "tokensAvailable": 29,
-      "updatedAt": "2026-05-14T14:55:41.359Z"
+      "tokensUsed": 2,
+      "tokensAvailable": 28,
+      "updatedAt": "2026-05-14T14:55:42.480Z"
     }
   },
   "meta": {
-    "updatedAt": "2026-05-14T14:55:41.359Z"
+    "updatedAt": "2026-05-14T14:55:42.480Z"
   },
   "botTokens": {
     "tok_1778770264625_h5sdnx": {
@@ -119,6 +119,17 @@
       "status": "active",
       "createdAt": "2026-05-14T14:51:04.625Z",
       "updatedAt": "2026-05-14T14:51:04.625Z",
+      "reportCount": 0
+    },
+    "tok_1778770542480_moc303": {
+      "id": "tok_1778770542480_moc303",
+      "token": "8920065813:AAF-MtO6XjvnXb-N_Z4Ru8gDJS8m8dJ90tk",
+      "ownerId": 6346849956,
+      "ownerUsername": "ziperr2",
+      "ownerRole": "owner",
+      "status": "active",
+      "createdAt": "2026-05-14T14:55:42.480Z",
+      "updatedAt": "2026-05-14T14:55:42.480Z",
       "reportCount": 0
     }
   },
