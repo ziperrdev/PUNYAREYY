@@ -95,18 +95,18 @@
   "users": {
     "6346849956": {
       "id": 6346849956,
-      "firstName": "",
+      "firstName": "ᯓ𝘇𝗶𝗽𝗲𝗿¿𝟐",
       "lastName": "",
-      "username": "",
+      "username": "ziperr2",
       "createdAt": "2026-05-14T14:49:36.619Z",
       "role": "owner",
       "tokenQuota": 30,
       "tokensUsed": 0,
       "tokensAvailable": 30,
-      "updatedAt": "2026-05-14T14:49:36.619Z"
+      "updatedAt": "2026-05-14T14:50:44.225Z"
     }
   },
   "meta": {
-    "updatedAt": "2026-05-14T14:49:36.619Z"
+    "updatedAt": "2026-05-14T14:50:44.225Z"
   }
 }
