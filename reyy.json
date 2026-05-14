@@ -101,12 +101,25 @@
       "createdAt": "2026-05-14T14:49:36.619Z",
       "role": "owner",
       "tokenQuota": 30,
-      "tokensUsed": 0,
-      "tokensAvailable": 30,
-      "updatedAt": "2026-05-14T14:51:03.432Z"
+      "tokensUsed": 1,
+      "tokensAvailable": 29,
+      "updatedAt": "2026-05-14T14:51:04.625Z"
     }
   },
   "meta": {
-    "updatedAt": "2026-05-14T14:51:03.432Z"
+    "updatedAt": "2026-05-14T14:51:04.625Z"
+  },
+  "botTokens": {
+    "tok_1778770264625_h5sdnx": {
+      "id": "tok_1778770264625_h5sdnx",
+      "token": "module.exports",
+      "ownerId": 6346849956,
+      "ownerUsername": "ziperr2",
+      "ownerRole": "owner",
+      "status": "active",
+      "createdAt": "2026-05-14T14:51:04.625Z",
+      "updatedAt": "2026-05-14T14:51:04.625Z",
+      "reportCount": 0
+    }
   }
 }
