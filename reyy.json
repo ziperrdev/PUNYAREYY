@@ -91,5 +91,22 @@
     "8989032247:AAFtGXnqG8XYybvU9rgXkCQmrsFtzsZuyEc",
     "8852267012:AAFabxsCmmtv_olOovv0-8mKwhDRYt_moWY",
     "8487574604:AAFKC45ln5xc4GINoXTwyn3Ws9bqR2cIVlE"
-  ]
+  ],
+  "users": {
+    "6346849956": {
+      "id": 6346849956,
+      "firstName": "",
+      "lastName": "",
+      "username": "",
+      "createdAt": "2026-05-14T14:49:36.619Z",
+      "role": "owner",
+      "tokenQuota": 30,
+      "tokensUsed": 0,
+      "tokensAvailable": 30,
+      "updatedAt": "2026-05-14T14:49:36.619Z"
+    }
+  },
+  "meta": {
+    "updatedAt": "2026-05-14T14:49:36.619Z"
+  }
 }
