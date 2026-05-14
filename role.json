@@ -1,24 +1,10 @@
 {
-  "developer": [
-    "6346849956"
-  ],
-  "eksekutif": [],
-  "tangan_kanan": [],
-  "owner": [],
-  "moderator": [],
-  "partner": [],
-  "reseller": [
-    "8208869109"
-  ],
-  "full_up": [],
-  "usage": {
-    "8208869109": 1
-  },
   "roles": {
     "reseller": [
-      "8668226898"
+      "8668226898",
+      "1170665502"
     ]
   },
   "updated_by": "6346849956",
-  "updated_at": "2026-05-14T01:20:20.672Z"
+  "updated_at": "2026-05-14T02:38:49.530Z"
 }
