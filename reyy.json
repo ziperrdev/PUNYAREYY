@@ -107,7 +107,7 @@
     }
   },
   "meta": {
-    "updatedAt": "2026-05-14T14:52:28.940Z"
+    "updatedAt": "2026-05-14T14:52:30.316Z"
   },
   "botTokens": {
     "tok_1778770264625_h5sdnx": {
@@ -120,6 +120,21 @@
       "createdAt": "2026-05-14T14:51:04.625Z",
       "updatedAt": "2026-05-14T14:51:04.625Z",
       "reportCount": 0
+    }
+  },
+  "buyerRequests": {
+    "1778770349990": {
+      "id": "1778770349990",
+      "requesterId": 6346849956,
+      "requesterUsername": "ziperr2",
+      "role": "full_up",
+      "buyerUsername": "ID1GW",
+      "requestedPeriod": "permanent",
+      "photoFileId": "AgACAgUAAxkBAAIBBmoF4XnoEreN6PfrQXWEoN-cFNCmAAIHDmsb7u0wVFfawAUU62GgAQADAgADdwADOwQ",
+      "caption": "",
+      "status": "pending",
+      "createdAt": "2026-05-14T14:52:30.316Z",
+      "updatedAt": "2026-05-14T14:52:30.316Z"
     }
   }
 }
